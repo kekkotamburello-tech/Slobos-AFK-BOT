@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Mesi.bot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "mesigoat3.aternos.me",
